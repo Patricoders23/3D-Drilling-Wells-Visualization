@@ -2,15 +2,11 @@
 
 Interactive 3D trajectory analysis and visualization of three directional oil wells from Campo Sacha, Ecuador.
 
----
-# 3D Visualization of Drilling Wells - Campo Sacha
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production-success)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18-orange)
-
-Interactive 3D trajectory analysis and visualization of three directional oil wells from Campo Sacha, Ecuador.
 
 ---
 
@@ -38,9 +34,9 @@ This project provides comprehensive 3D visualization and comparative analysis of
 │
 ├── data/
 │   ├── raw/                          # Original survey CSV files
-│   │   ├── survey_alfa1_377D.csv
-│   │   ├── survey_alfa2_378D.csv
-│   │   └── survey_alfa3_208D.csv
+│   │   ├── survey_alfa1_301D.csv
+│   │   ├── survey_alfa2_308D.csv
+│   │   └── survey_alfa3_200D.csv
 │   │
 │   └── processed/                    # Generated analysis files
 │
