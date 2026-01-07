@@ -2,15 +2,11 @@
 
 Interactive 3D trajectory analysis and visualization of three directional oil wells from Campo Sacha, Ecuador.
 
----
-# 3D Visualization of Drilling Wells - Campo Sacha
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Production-success)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18-orange)
-
-Interactive 3D trajectory analysis and visualization of three directional oil wells from Campo Sacha, Ecuador.
 
 ---
 
@@ -38,9 +34,9 @@ This project provides comprehensive 3D visualization and comparative analysis of
 │
 ├── data/
 │   ├── raw/                          # Original survey CSV files
-│   │   ├── survey_alfa1_377D.csv
-│   │   ├── survey_alfa2_378D.csv
-│   │   └── survey_alfa3_208D.csv
+│   │   ├── survey_alfa1_301D.csv
+│   │   ├── survey_alfa2_308D.csv
+│   │   └── survey_alfa3_200D.csv
 │   │
 │   └── processed/                    # Generated analysis files
 │
@@ -116,9 +112,9 @@ Simply open the notebook and execute cells one by one. The notebook will:
 ### 3D Visualization Elements
 
 **Well Trajectories (Lines):**
-- Red: Well Alpha 1 (377D) - Deepest well
-- Blue: Well Alpha 2 (378D) - Medium depth
-- Green: Well Alpha 3 (208D) - Shallowest well
+- Red: Well Alpha 1 (301D) - Deepest well
+- Blue: Well Alpha 2 (308D) - Medium depth
+- Green: Well Alpha 3 (200D) - Shallowest well
 
 **Casing Points (Diamonds):**
 - Orange: 13 3/8" Surface casing (~2,500 ft)
@@ -145,9 +141,9 @@ Simply open the notebook and execute cells one by one. The notebook will:
 
 | Well | Total Depth (MD) | TVD | Survey Points |
 |------|-----------------|-----|---------------|
-| Alpha 1 (377D) | 11,386 ft | 10,089 ft | 147 |
-| Alpha 2 (378D) | 10,770 ft | 10,107 ft | 114 |
-| Alpha 3 (208D) | 10,390 ft | 10,075 ft | 113 |
+| Alpha 1 (301D) | 11,386 ft | 10,089 ft | 147 |
+| Alpha 2 (308D) | 10,770 ft | 10,107 ft | 114 |
+| Alpha 3 (200D) | 10,390 ft | 10,075 ft | 113 |
 
 All three wells successfully reached the Hollin reservoir formation, demonstrating effective geological modeling and directional drilling execution.
 
