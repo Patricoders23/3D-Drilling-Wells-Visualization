@@ -1,0 +1,45 @@
+code .gitignore
+```
+
+Reemplaza todo el contenido con esto:
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Data files (opcional - comenta si quieres subir los CSVs)
+# data/raw/*.csv
+
+# Output files
+*.html
+*.png
+*.jpg
+*.pdf
+
+# Temporary files
+*.log
+*.tmp
+get-pip.py
