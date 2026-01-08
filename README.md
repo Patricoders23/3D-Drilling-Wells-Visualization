@@ -182,18 +182,6 @@ seaborn>=0.13.0
 openpyxl>=3.1.0
 ```
 
----
-
-## For Your Portfolio
-
-This project demonstrates:
-
-- **3D Geospatial Visualization:** Interactive plotting with Plotly
-- **Domain Expertise:** Oil & Gas directional drilling knowledge
-- **Data Processing:** Survey data cleaning and validation
-- **Python Skills:** pandas, numpy, plotly, scipy
-- **Documentation:** Clear, professional code and documentation
-- **Jupyter Notebooks:** Educational, step-by-step analysis
 
 ### Skills Showcased
 
